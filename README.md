@@ -1,6 +1,8 @@
 # Project_Sparkify
 This project is about sparkify music streaming service which is a hypothetical concept of music streaming platform, user's can listen music on their devices, it is similar kind of service like spotify, pandora etc. Our main goal of the project is to find the user's who left the service or the user who is going to churn.
 
+Read my blog on this project as well [here](https://kshitijjagatkar505.medium.com/project-sparkify-churn-prediction-of-music-streaming-service-6d8faad8a8b5)
+
 1. Project Motivation
 2. Project Summary
 3. Project Components
