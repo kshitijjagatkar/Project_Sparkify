@@ -32,14 +32,9 @@ This project basically divided into sections as follows:
 ## 4. File Structure & Description
 * Data
 
-  | - articles_community.csv
-    - user-item-interactions.csv
+  | - data/data_link.txt :  link of the data is provided
   
-  | - Recommendations_with_IBM.ipynb
-  
-  *Data : this folder has all data
-  
-  *Other files : There is main notebook file named "Recommendations_with_IBM.ipynb" which has all the code & rest files are needed while working.
+  | - Project_Sparkify.ipynb : main notebook file.
   
   *README.md : this files has all description of the project.
   
