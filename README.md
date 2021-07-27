@@ -1,6 +1,8 @@
 # Project_Sparkify
 This project is about sparkify music streaming service which is a hypothetical concept of music streaming platform, user's can listen music on their devices, it is similar kind of service like spotify, pandora etc. Our main goal of the project is to find the user's who left the service or the user who is going to churn.
 
+Read my blog on this project as well [here](https://kshitijjagatkar505.medium.com/project-sparkify-churn-prediction-of-music-streaming-service-6d8faad8a8b5)
+
 1. Project Motivation
 2. Project Summary
 3. Project Components
@@ -32,14 +34,9 @@ This project basically divided into sections as follows:
 ## 4. File Structure & Description
 * Data
 
-  | - articles_community.csv
-    - user-item-interactions.csv
+  | - data/data_link.txt :  link of the data is provided
   
-  | - Recommendations_with_IBM.ipynb
-  
-  *Data : this folder has all data
-  
-  *Other files : There is main notebook file named "Recommendations_with_IBM.ipynb" which has all the code & rest files are needed while working.
+  | - Project_Sparkify.ipynb : main notebook file.
   
   *README.md : this files has all description of the project.
   
